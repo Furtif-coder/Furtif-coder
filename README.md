@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Furtif-coder
 - 👀 I’m interested in progaming in general
-- 🌱 I’m currently learning python, HTML5 & CSS3,some linux stuff (for cyber security)
+- 🌱 I’m currently learning python, HTML5 & CSS3, some linux stuff (for cyber security)
 - 💞️ I’m looking to collaborate on a full working web application or even a software devellopement
 - 📫 mail: ode808prod@gmail.com
 
